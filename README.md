@@ -57,7 +57,7 @@ Feel free to use, modify, and share with proper attribution.
 📍 Peru  
 
 Data analytics professional with experience in processing, visualizing, and modeling data for analytical solutions.  
-Collaborator at **CITE Textil Camélidos Cusco – ITP**, supporting data-driven decision-making.
+Supporting data-driven decision-making.
 
 - ✉️ Email: **dev.andy.marcelo@gmail.com**  
 - 📱 Phone: **+51 924 683 805**  
@@ -114,7 +114,7 @@ Puedes usarlo, modificarlo y compartirlo con la debida atribución.
 📍 Perú  
 
 Profesional en análisis de datos con experiencia en procesamiento, visualización y desarrollo de soluciones analíticas.  
-Ha colaborado con el **CITE Textil Camélidos Cusco – ITP**, impulsando decisiones basadas en datos.
+Impulsando decisiones basadas en datos.
 
 - ✉️ Correo: **dev.andy.marcelo@gmail.com**  
 - 📱 Teléfono: **+51 924 683 805**  
