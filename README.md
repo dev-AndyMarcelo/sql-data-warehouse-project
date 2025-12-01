@@ -1,67 +1,65 @@
-# Data Warehouse and Analytics Project  
+# 📊 Data Warehouse and Analytics Project  
+# 📈 Proyecto de Data Warehouse y Análisis  
 
 ---
 
-## 🏷️ Badges
+## 🏷️ Tech Stack & Tools
 
-### 🔧 Technologies & Tools
-[SQL Server]
-[Python]
-[Tableau]
-[Data Warehouse]
-[ETL]
+### 🧰 Technologies Used  
+[SQL Server][Python][Tableau][Power BI][ETL][Data Warehouse]
 
 ---
 
-## 🇺🇸 English Version
+# 🇺🇸 English Version
 
+## 👋 Welcome  
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
-This project demonstrates a modern data warehousing and analytics solution, focused on consolidating organizational data, improving data quality, and enabling reliable business intelligence reporting. It follows industry best practices in data engineering, SQL development, and analytical modeling.
+This project showcases a modern data warehousing and analytics solution designed to consolidate organizational data, improve data quality, and deliver actionable insights using industry best practices in **data engineering**, **SQL**, and **business intelligence**.
 
 ---
 
-### Specifications
+## 📌 Specifications
 
-- **Data Sources**: Multiple internal sources from the CITE (CSV/Excel files, operational records, laboratory tests, billing reports, and technical service logs).  
-- **Data Quality**: Standardization, deduplication, text normalization, numeric/date formatting corrections, and validation of categorical fields.  
-- **Integration**: ETL/ELT workflows to extract, clean, transform, and load data into a unified analytical model.  
-- **Data Model**: Star schema including fact tables (services, billing, lab tests, technical production) and dimension tables (customers, services, technical areas, dates, products/fibers, specialists, environments/equipment).  
-- **Scope**: Focused on recent and relevant data; historization (SCD2) is not included in this version.  
-- **Documentation**: Data dictionary, KPI definitions, model explanation, and guidance for analysts and stakeholders.  
-
----
-
-### BI / Analytics
-
-The data warehouse enables insights such as:
-
-- Service usage trends  
-- Customer behavior and service recurrence  
-- Laboratory and technical performance  
-- Revenue, cost, and operational efficiency analysis  
-- Specialist productivity and resource utilization  
-
-These insights support strategic and operational decision-making.
+- 🗃️ **Data Sources**: Internal CITE datasets (CSV/Excel, operational logs, lab tests, billing data, technical service records).  
+- 🧹 **Data Quality**: Standardization, deduplication, text cleanup, date/number formatting, and categorical validation.  
+- 🔗 **Integration**: ETL/ELT workflows to extract, clean, transform, and load data into an analytical model.  
+- ⭐ **Data Model**: Star schema with fact tables (services, billing, lab tests, production) and dimension tables (customers, services, dates, specialists, etc.).  
+- 🎯 **Scope**: Focused on recent, relevant datasets (no SCD2 historization yet).  
+- 📘 **Documentation**: Data dictionary, KPIs, and clear model explanation for analysts and stakeholders.  
 
 ---
 
-### License
+## 📊 BI / Analytics Insights
 
-This project is released under the **MIT License**.  
-You may use, modify, and distribute it with proper attribution.
+This project enables insights such as:
+
+- 📈 Service usage and demand trends  
+- 🧍‍♂️👥 Customer behavior and recurrence  
+- 🧪 Lab test performance and productivity  
+- 💰 Revenue, cost, and operational efficiency analytics  
+- 🧑‍💼 Specialist productivity & resource utilization  
+
+These insights support **strategic planning** and **operational decision-making**.
 
 ---
 
-### Author
+## 📄 License
 
-#### **Andy Huaman**  
-**Data Analytics | Tableau | Python | SQL Server**  
-Peru  
+📜 Distributed under the **MIT License**.  
+Feel free to use, modify, and share with proper attribution.
 
-Data analytics professional with experience in data processing, visualization, and analytical solution development.  
-Collaborator with **CITE Textil Camélidos Cusco – ITP**, supporting data-driven decision-making and digital transformation.
+---
 
-- 📧 Email: **dev.andy.marcelo@gmail.com**  
+## 👤 Author
+
+### **Andy Huaman**  
+**💼 Data Analytics | 📊 Tableau | 🐍 Python | 🗄️ SQL Server**  
+📍 Peru  
+
+Data analytics professional with experience in processing, visualizing, and modeling data for analytical solutions.  
+Collaborator at **CITE Textil Camélidos Cusco – ITP**, supporting data-driven decision-making.
+
+- ✉️ Email: **dev.andy.marcelo@gmail.com**  
 - 📱 Phone: **+51 924 683 805**  
 - 🔗 LinkedIn: https://www.linkedin.com/in/andyhuaman/
 
@@ -69,55 +67,56 @@ Collaborator with **CITE Textil Camélidos Cusco – ITP**, supporting data-driv
 
 ---
 
-## 🇪🇸 Versión en Español
+# 🇪🇸 Versión en Español
 
+## 👋 Bienvenido  
 ¡Bienvenido al repositorio del **Proyecto de Data Warehouse y Análisis**! 🚀  
-Este proyecto demuestra una solución moderna de almacenamiento y análisis de datos, centrada en consolidar información organizacional, mejorar la calidad de los datos y habilitar reportes confiables de inteligencia de negocios. Sigue las mejores prácticas de la industria en ingeniería de datos, desarrollo SQL y modelado analítico.
+Este proyecto presenta una solución moderna para almacenar, integrar y analizar datos organizacionales, siguiendo buenas prácticas de **ingeniería de datos**, **SQL** y **analítica empresarial**.
 
 ---
 
-### Especificaciones
+## 📌 Especificaciones
 
-- **Fuentes de datos**: múltiples fuentes internas del CITE (archivos CSV/Excel, registros operativos, ensayos de laboratorio, reportes de facturación y servicios técnicos).  
-- **Calidad de datos**: estandarización, eliminación de duplicados, normalización de textos, corrección de formatos numéricos y de fechas, validación de campos categóricos.  
-- **Integración**: flujos ETL/ELT para extraer, limpiar, transformar y cargar datos en un modelo analítico unificado.  
-- **Modelo de datos**: modelo en estrella con tablas de hechos (servicios, facturación, ensayos de laboratorio, producción técnica) y dimensiones (clientes, servicios, áreas técnicas, fechas, productos/fibras, especialistas, ambientes/equipos).  
-- **Alcance**: centrado en los datos recientes más relevantes; la historización (SCD2) no se incluye en esta versión.  
-- **Documentación**: diccionario de datos, definiciones de KPIs, descripción del modelo y guías para analistas y usuarios clave.  
-
----
-
-### BI / Analytics
-
-El Data Warehouse permite obtener análisis como:
-
-- Tendencias y patrones de uso de servicios  
-- Comportamiento de clientes y recurrencia  
-- Desempeño técnico y de laboratorio  
-- Análisis de ingresos, costos y eficiencia operativa  
-- Productividad de especialistas y uso de recursos  
-
-Estos análisis apoyan decisiones estratégicas y operativas dentro de la organización.
+- 🗃️ **Fuentes de datos**: datasets internos del CITE (CSV/Excel, registros operativos, ensayos, facturación, servicios técnicos).  
+- 🧹 **Calidad de datos**: estandarización, eliminación de duplicados, limpieza de textos, formatos correctos y validación de campos.  
+- 🔗 **Integración**: flujos ETL/ELT para extraer, limpiar, transformar y cargar datos.  
+- ⭐ **Modelo de datos**: esquema en estrella con hechos (servicios, facturación, ensayos, producción) y dimensiones (clientes, fechas, servicios, especialistas).  
+- 🎯 **Alcance**: se enfoca en los datos recientes; no incluye historización avanzada.  
+- 📘 **Documentación**: diccionario de datos, KPIs y descripción del modelo para analistas y usuarios finales.  
 
 ---
 
-### Licencia
+## 📊 Análisis BI / Insights
 
-Este proyecto se distribuye bajo la **Licencia MIT**.  
-Puedes usarlo, modificarlo y compartirlo con la atribución correspondiente.
+El Data Warehouse permite visualizar:
+
+- 📈 Tendencias y patrones de servicios  
+- 🧍‍♂️👥 Comportamiento y recurrencia de clientes  
+- 🧪 Desempeño técnico y de laboratorio  
+- 💰 Análisis de ingresos, costos y eficiencia  
+- 🧑‍💼 Productividad de especialistas y uso de recursos  
+
+Estos reportes fortalecen la **toma de decisiones estratégica**.
 
 ---
 
-### Autor
+## 📄 Licencia
 
-#### **Andy Huaman**  
-**Data Analytics | Tableau | Python | SQL Server**  
-Perú  
+📜 Este proyecto se distribuye bajo la **Licencia MIT**.  
+Puedes usarlo, modificarlo y compartirlo con la debida atribución.
 
-Profesional en análisis de datos con experiencia en procesamiento, visualización y construcción de soluciones analíticas.  
-Ha colaborado con el **CITE Textil Camélidos Cusco – ITP**, impulsando la transformación digital y la toma de decisiones basada en datos.
+---
 
-- 📧 Correo: **dev.andy.marcelo@gmail.com**  
+## 👤 Autor
+
+### **Andy Huaman**  
+**💼 Data Analytics | 📊 Tableau | 🐍 Python | 🗄️ SQL Server**  
+📍 Perú  
+
+Profesional en análisis de datos con experiencia en procesamiento, visualización y desarrollo de soluciones analíticas.  
+Ha colaborado con el **CITE Textil Camélidos Cusco – ITP**, impulsando decisiones basadas en datos.
+
+- ✉️ Correo: **dev.andy.marcelo@gmail.com**  
 - 📱 Teléfono: **+51 924 683 805**  
 - 🔗 LinkedIn: https://www.linkedin.com/in/andyhuaman/
 
