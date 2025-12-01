@@ -1,16 +1,15 @@
 # Data Warehouse and Analytics Project  
-# Proyecto de Data Warehouse y Análisis  
 
 ---
 
 ## 🏷️ Badges
 
 ### 🔧 Technologies & Tools
-![SQL Server]
-![Python]
-![Tableau]
-![Data Warehouse]
-![ETL]
+[SQL Server]
+[Python]
+[Tableau]
+[Data Warehouse]
+[ETL]
 
 ---
 
